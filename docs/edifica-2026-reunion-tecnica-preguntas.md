@@ -1,124 +1,284 @@
-# Edifica 2026 · Reunión Técnica de Expositores — preguntas a hacer
+# Preguntas para FISA · Reunión Técnica de Expositores EDIFICA 2026
 
 **Cuándo:** jueves 27 de agosto de 2026, 09:00 h
 **Dónde:** Salón 7, Edificio Cámara Chilena de la Construcción — Av. Apoquindo 6750, Las Condes
-**Convoca:** EDIFICA / FISA (Área Técnica) · citación vía Gonzalo Obando (BEKA)
-**Nuestro caso:** BEKA S.A. · Lote AD-A10 · área descubierta 100 m² · ~30 equipos, ~12 t · Espacio Riesco, 20–22 de octubre
+**Lote:** AD-A10 · área descubierta de 100 m² · ~30 equipos, ~12 toneladas
+**Feria:** 20, 21 y 22 de octubre · Espacio Riesco · montaje estimado 15 al 19 de octubre
+**Prepara:** Precisión Agencia para BEKA S.A. · Grupo EMIN
 
-Cada pregunta apunta a un hueco real del proyecto que hoy se está resolviendo con un supuesto.
-Las marcadas **[P]** son las que no pueden quedar sin respuesta hoy.
+78 consultas ordenadas por bloque. Cada una corresponde a algo que FISA no nos ha contestado
+o que quedó abierto con Weynner y no podemos resolver por nuestra cuenta.
+Las marcadas **[CLAVE]** son las que no pueden quedar sin respuesta.
 
----
+## Las ocho que no pueden quedar sin respuesta
 
-## A · Portal del expositor, plazos y pagos
-
-1. **[P]** ¿Qué día y a qué hora exacta abre el portal para cargar el proyecto y pagar?
-2. **[P]** La revisión de proyectos es por orden cronológico: ¿el orden lo fija el pago o la carga del proyecto completo?
-3. El portal está a nombre de BEKA. ¿Precisión entra con esas credenciales o debe registrarse aparte como productora? ¿Existe un perfil de productor con acceso propio?
-4. **[P]** UF 30 de Derecho de Producción y UF 50 de Depósito de Garantía: ¿UF de qué fecha se aplica, se pagan juntos y qué medios de pago aceptan (transferencia, orden de compra)?
-5. ¿A nombre de quién se factura cada concepto: BEKA como expositor o Precisión como productora?
-6. ¿Cuál es la fecha límite para cargar el proyecto sin recargo? ¿Existe recargo por presentación tardía y de cuánto?
-7. Si el proyecto se observa, ¿cuántos días hay para corregir y cuántas rondas de revisión permite el Área Técnica?
-8. ¿En qué plazo y bajo qué condiciones se devuelve la garantía de UF 50 después del desmontaje?
-9. ¿Qué descuentos se aplican habitualmente sobre esa garantía (basura, daños al recinto, atraso en desmontaje)? ¿Hay tarifario publicado?
-
-## B · Proyecto técnico y aprobación (área descubierta)
-
-10. **[P]** Para un lote descubierto, ¿qué exige exactamente el Área Técnica: planta, elevaciones, render, memoria de cálculo, especificación de materiales? ¿En qué formato y escala?
-11. **[P]** ¿Se exige memoria de cálculo estructural firmada por ingeniero para toldos plegables, panel araña y rack de exhibición, o solo sobre cierta altura o superficie?
-12. ¿Cuál es la altura máxima permitida en áreas descubiertas, y cuál para elementos publicitarios?
-13. ¿Hay retranqueo obligatorio respecto de la línea del lote y del pasillo? ¿De cuántos centímetros?
-14. Los brazos de la miniexcavadora y la retroexcavadora se exhiben extendidos: ¿pueden proyectarse en el aire sobre el pasillo o todo debe quedar dentro de la línea del lote?
-15. **[P]** El listado de equipos y sus posiciones aún puede variar: ¿hasta qué fecha se aceptan cambios sin reingresar el proyecto? ¿Un cambio de posición obliga a nueva revisión?
-16. ¿Quién es la contraparte técnica nominal para el lote AD-A10 (nombre, correo, teléfono) y cuál es el canal oficial de consultas?
-17. ¿Nos pueden entregar el plano del lote a escala con cotas reales, cámaras eléctricas, puntos de agua y anclajes disponibles?
-18. **[P]** ¿Qué tipo de piso tiene el lote (asfalto, radier, tierra compactada) y cuál es la carga admisible en kg/m²? Vamos con ~12 toneladas en 100 m².
-19. **[P]** ¿Se puede perforar o anclar al piso? Si no, ¿qué sistema de contrapesos exigen para toldos y banderines y cuántos kilos por punto?
-
-## C · Seguro y documentación legal
-
-20. **[P]** El Reglamento pide cobertura sin deducible; nuestra póliza de RC (UF 15.000) tiene 10 % con mínimo de UF 25. ¿Se acepta una carta de la productora asumiendo el deducible o exigen endoso que lo elimine?
-21. ¿Basta con FISA S.A. como asegurado adicional o también deben ir Espacio Riesco y la Cámara Chilena de la Construcción?
-22. Las ubicaciones aseguradas hoy son las instalaciones de BEKA. ¿El endoso debe nombrar expresamente el recinto ferial durante montaje, feria y desmontaje? ¿Con qué texto exacto?
-23. ¿Qué otra documentación laboral exigen y en qué plazo: contrato o subcontrato, F30-1, certificado de siniestralidad, ODI, seguro de accidentes de los montajistas?
-24. ¿Se exige prevencionista de riesgos acreditado durante el montaje? ¿Con dedicación permanente o por visita?
-25. ¿Piden programa de trabajo seguro o análisis de riesgos del montaje en formato propio de FISA?
-
-## D · Electricidad y servicios
-
-26. **[P]** ¿Cuál es la potencia máxima contratable por lote y el valor por kW? Consideramos 2 computadores, minirefrigerador, cafetera, 2 pantallas e iluminación.
-27. ¿La instalación interna del stand la puede ejecutar nuestro electricista (SEC clase B) o es obligatorio el concesionario oficial?
-28. **[P]** ¿Qué exigen para aprobar la instalación: TE1, certificado SEC, memoria, diferencial obligatorio? ¿Quién inspecciona y en qué momento?
-29. ¿Desde qué punto entrega FISA la energía y quién asume el cable de acometida hasta el lote?
-30. ¿Hay energía desde el primer día de montaje? ¿El suministro es 24 h o se corta fuera de horario de feria?
-31. ¿Hay punto de agua y desagüe disponible para un lote descubierto?
-32. ¿Existe wifi de expositor o debemos contratar enlace dedicado? ¿Costo?
-33. En área descubierta, ¿hay iluminación general del recinto de noche o debemos considerar iluminación propia?
-
-## E · Montaje, desmontaje y logística de maquinaria
-
-34. ¿Cuáles son las fechas y horarios exactos de montaje y desmontaje? Estamos trabajando con 15–19 de octubre para montar y 22–24 para desmontar.
-35. **[P]** ¿Hay ventana anticipada de ingreso para maquinaria pesada en áreas descubiertas? Entran ~30 equipos y ~12 toneladas.
-36. ¿Cómo se coordina el ingreso de camiones: se agenda hora, hay portería específica, cuál es la altura y el peso máximo de acceso?
-37. ¿Se puede circular con maquinaria autopropulsada dentro del recinto? ¿Exigen operador certificado y guía en tierra?
-38. ¿FISA dispone de grúa horquilla y operador para la descarga y a qué tarifa, o debemos llevar la nuestra?
-39. ¿Se puede dejar maquinaria en el lote antes del inicio formal del montaje?
-40. Si un equipo debe retirarse o cambiarse durante los días de feria por venta o necesidad operativa, ¿está permitido y con qué procedimiento?
-41. ¿A qué hora debe estar el stand terminado y libre de embalajes? ¿Hay revisión final del Área Técnica y a qué hora?
-42. ¿Dónde se acopian embalajes y pallets durante la feria? ¿Hay bodegaje disponible?
-43. ¿Cuál es la hora límite de retiro el último día y qué multa aplica el atraso?
-
-## F · Estructuras, materiales y publicidad
-
-44. Toldos plegables de 3×3 y 3×6 con contrapesos, sin perforar el piso: ¿se aprueban en área descubierta? ¿Exigen certificado de retardancia al fuego de la lona?
-45. ¿Qué certificación de materiales exigen para lonas, alfombra y pasto sintético?
-46. Panel araña de ~5 × 2,2 m: ¿respeta la altura permitida? ¿Requiere verificación de carga de viento por estar al aire libre?
-47. Doce banderines tipo vela: ¿pueden ir en el perímetro del lote? ¿Hay restricción de altura o de distancia a la línea del pasillo?
-48. ¿Se permite publicidad orientada al pasillo o hacia lotes vecinos? ¿Hay restricción para exhibir marcas representadas (Wacker Neuson, Putzmeister, Hatz, Grupo EMIN) distintas del expositor titular?
-49. Pantallas de 55": ¿hay límite de nivel sonoro? ¿Se permite audio hacia el pasillo?
-50. ¿Se permite algún elemento colgante o todo debe apoyarse en el piso?
-
-## G · Activación, público y sorteo
-
-51. **[P]** La activación tiene caja de arena y máquinas RC con público dentro del lote. ¿Requiere autorización especial o cobertura de seguro adicional?
-52. ¿Se permite arena o áridos en el lote? ¿Qué condiciones de contención y limpieza exigen?
-53. **[P]** ¿Se puede encender y operar maquinaria en demostración dentro del stand? ¿Con qué restricciones de ruido, emisiones y perímetro de seguridad?
-54. Sorteo con ruleta y registro por QR: ¿EDIFICA exige aviso, bases legales o permiso? ¿Hay restricción para la captación de datos de visitantes?
-55. ¿Se permite entrega de merchandising y servicio de café en el lote? ¿Se exige resolución sanitaria?
-56. ¿Hay restricción de música o amplificación y un máximo de decibeles?
-57. ¿Promotoras y personal externo requieren credencial distinta a la de expositor?
-
-## H · Credenciales, accesos y personal
-
-58. ¿Cuántas credenciales de expositor y de montaje incluye un lote de 100 m²? ¿Hasta cuándo se cargan los nombres y cuánto cuesta la adicional?
-59. ¿Los montajistas necesitan credencial nominativa con documentación previa? ¿Cuál es el plazo de carga?
-60. ¿Hay estacionamiento para expositores, cuántos cupos incluye el lote y cuál es el valor del adicional?
-61. ¿Cuál es el horario de ingreso de expositores antes de la apertura y de salida después del cierre?
-
-## I · Operación durante los tres días
-
-62. ¿Hay seguridad nocturna en áreas descubiertas y qué cubre? ¿Quién responde ante robo o daño de maquinaria?
-63. ¿Se pueden dejar los equipos con llaves o baterías conectadas, o recomiendan inmovilizarlos?
-64. ¿Existe plan de contingencia por lluvia para áreas descubiertas?
-65. ¿El aseo del lote está incluido o se contrata aparte? ¿Con qué frecuencia?
-66. ¿Cuál es el contacto de emergencia y el procedimiento ante un accidente durante la feria?
-
-## J · Marketing y visibilidad del expositor
-
-67. ¿Cuántas entradas de cortesía o invitaciones digitales incluye el lote y cómo se distribuyen? Las necesitamos para un concurso en redes en septiembre.
-68. ¿Cuál es el plazo para cargar la ficha en el catálogo o directorio digital y qué activos piden?
-69. ¿Quedan cupos de auspicio, charlas técnicas o espacios de contenido a los que BEKA pueda postular?
-70. ¿Se permite fotografía y video profesional propio en el stand y en pasillos? ¿El fotógrafo necesita acreditación de prensa?
-71. ¿EDIFICA entrega listado de asistentes o servicio de lectura de credenciales para captar leads? ¿A qué costo?
-72. ¿Confirman las fechas límite del portal para material gráfico? Estamos trabajando con el 16 y 17 de septiembre.
+- Valor del kW adicional y unidad de cobro (A1) — sin eso no se puede elegir entre el escenario mínimo y el completo.
+- Mínimo eléctrico exigido para aprobar un lote descubierto de 100 m² (A5).
+- ¿Se puede entrar con generador propio en el montaje del 15 al 18? (A11).
+- Fecha y hora de apertura del portal, y fecha tope real de carga: ¿16 o 17 de septiembre? (B1, B5).
+- ¿El render y el plano se aceptan con gráfica preliminar o en blanco? (C1).
+- ¿Qué cambios obligan a reingresar o repostular el proyecto, y con qué costo? (C3, C4).
+- Días asignados de montaje y desmontaje (D1) — la cotización de pantallas depende de esto.
+- Deducible de la póliza de responsabilidad civil: ¿carta de la productora o endoso? (G1).
 
 ---
 
-## Antes de salir de la reunión
+## A · Energía eléctrica e iluminación
 
-- Nombre, correo y teléfono de la contraparte técnica del lote AD-A10.
-- Fecha y hora de apertura del portal, por escrito.
-- Plano del lote a escala con cotas, cámaras eléctricas y puntos de agua.
-- Confirmación de la carga admisible del piso y del sistema de fijación permitido.
-- Criterio definitivo sobre el deducible de la póliza de responsabilidad civil.
-- Hasta qué fecha se aceptan cambios de equipos y posiciones sin reingresar el proyecto.
+*Es el tema que se destapó ayer y el que puede mover el presupuesto. Lo que ya sabemos por la guía y el
+reglamento: el área descubierta recibe 50 W/m² —5.000 W para nuestros 100 m²— frente a los 70 W/m² del
+stand modular; sobre 3,5 kW se entrega una toma volante industrial de 32 A monofásica y toda la
+distribución interna corre por cuenta del expositor; la energía adicional se contrata en el portal con tope
+el 16 de septiembre; la energía definitiva se habilita 24 horas antes de la inauguración. La partida está
+presupuestada hoy en $420.000 y no alcanza.*
+
+**A1. [CLAVE]** ¿Cuánto cuesta el kW adicional, en qué unidad se cobra —UF o pesos— y emiten factura o solo comprobante del portal?
+— Sin este número no podemos elegir entre el escenario mínimo de 4 puntos y el completo de 9 o 10, ni llevarle un monto a Jaime.
+
+**A2. [CLAVE]** ¿El cobro es por kW declarado o por punto de enchufe instalado?
+— Define si conviene pedir más puntos dentro del mismo kilowataje o recortar puntos.
+
+**A3.** Sobre los 5 kW base del lote, ¿cuánto es lo máximo que se puede sumar? ¿Hay tope por lote?
+
+**A4.** ¿El consumo se declara con la tabla referencial de la guía o con el consumo real de placa de cada artefacto?
+— Nuestra lista —2 pantallas de 55", cafetera, minirefrigerador, 2 o 3 computadores, audio y 2 a 4 puntos de carga para las máquinas a control remoto— ya se come los 5 kW con la tabla referencial.
+
+**A5. [CLAVE]** ¿Cuál es el mínimo de puntos y de potencia que FISA exige para aprobar un lote descubierto de 100 m²?
+— BEKA planteó un escenario mínimo de cuatro puntos: cafetera, minirefrigerador, una pantalla y un punto libre. Necesitamos saber si ese mínimo es siquiera admisible.
+
+**A6.** La toma volante industrial de 32 A: ¿desde qué punto físico del lote se entrega y a qué distancia queda de nuestras zonas de trabajo?
+— El tablero, las protecciones y la canalización a cada zona corren por nuestra cuenta y hoy no están cotizados.
+
+**A7.** ¿Qué documentación exige un proyecto especial —TE1, certificado SEC, plano eléctrico, memoria—, quién debe firmarla y cómo se sube?
+
+**A8.** ¿La instalación interna la puede ejecutar nuestro técnico electricista o es obligatorio el concesionario oficial de FISA?
+— Ya tenemos al electricista revisando el proyecto y le enviamos certificaciones y credenciales.
+
+**A9.** ¿Quién inspecciona la instalación, en qué momento, y qué ocurre si se rechaza en terreno?
+
+**A10.** En área descubierta la iluminación debe ser propia y autónoma: ¿hay un mínimo de puntos o de nivel de luz exigido para aprobar el proyecto?
+— BEKA pidió ir por lo estrictamente necesario: si con tres focos bien puestos se aprueba, van tres focos.
+
+**A11. [CLAVE]** Durante el montaje del 15 al 18 de octubre solo hay energía de faena sin continuidad garantizada. ¿Podemos entrar con generador propio?
+— BEKA tiene generadores. Si no se puede, hay que resolver de otra forma la luz de los cuatro días de montaje.
+
+**A12.** Si llevamos generador propio: ¿hay que declararlo, requiere certificación SEC, y hay restricción de combustible, ruido u horario?
+
+**A13.** ¿La energía de faena durante el montaje tiene costo aparte y se solicita en el portal, o viene incluida?
+
+**A14.** ¿El 16 de septiembre es tope duro para contratar potencia adicional, o se puede ampliar después con recargo?
+— Si es tope duro, hay que declarar el escenario alto y bajar; si admite ampliación, podemos declarar el mínimo y crecer.
+
+**A15.** ¿El suministro es continuo durante los tres días o se corta fuera del horario de público?
+— Define si las pantallas pueden quedar programadas y si hay que reconectar cada mañana.
+
+## B · Portal del expositor, plazos y pagos
+
+*El portal sigue cerrado y todo el cronograma cuelga de él. Pedimos los links de pago por correo y no han llegado.*
+
+**B1. [CLAVE]** ¿Qué día y a qué hora abre el portal del expositor?
+— Es la fecha de la que cuelga todo lo demás.
+
+**B2.** Pedimos los links de pago por correo y no llegaron. ¿Quién los emite y cuándo?
+
+**B3.** UF 30 de Derecho de Producción y UF 50 de Depósito de Garantía: ¿UF de qué fecha, se pagan juntos, qué medios de pago aceptan y emiten factura?
+— En la reunión quedó la duda de si FISA factura o solo entrega comprobante. Jaime lo necesita para la orden de compra.
+
+**B4.** La revisión de proyectos es por orden cronológico según entrada de pago: ¿el reloj parte con el pago o con la carga del proyecto completo?
+— Cambia si conviene pagar de inmediato o esperar a tener el render cerrado.
+
+**B5. [CLAVE]** ¿La fecha tope para presentar el proyecto es el 16 o el 17 de septiembre? ¿Se va a extender por el atraso en la apertura del portal?
+— Estamos trabajando con el 17 como tope y con el 11 como fecha interna de revisión final con BEKA.
+
+**B6.** ¿El proyecto se sube por el portal o se envía por correo?
+— En la reunión aparecieron las dos vías y conviene despejarlo.
+
+**B7.** Si el proyecto se observa, ¿cuántos días hay para corregir y cuántas rondas admite el Área Técnica?
+— Determina cuánto colchón hay que dejar antes del 15 de octubre.
+
+**B8.** ¿Quién es la contraparte técnica formal del lote AD-A10, con nombre, correo y teléfono?
+— Hoy manejamos a Francisco y a Marco Rebolledo como contactos y no está claro a quién corresponde cada tema.
+
+**B9.** El portal está a nombre de BEKA: ¿Precisión entra con esas credenciales o debe registrarse aparte como productora?
+
+**B10.** ¿En qué plazo se devuelve la garantía de UF 50 y qué descuentos se aplican habitualmente sobre ella?
+
+## C · Render, planos y cambios de proyecto
+
+*Este bloque define si el diseño gráfico está o no en la ruta crítica del 17 de septiembre. La primera pregunta la pidió Weynner textualmente.*
+
+**C1. [CLAVE]** ¿El render y el plano deben llevar el diseño gráfico definitivo de banderines, pendones y panel araña, o se aceptan en blanco o con gráfica preliminar?
+— Si se acepta preliminar, el diseño gráfico sale de la ruta crítica y se puede cerrar con calma después.
+
+**C2.** Si más adelante cambiamos solo la gráfica impresa, sin tocar estructura ni medidas, ¿hay que reingresar el proyecto?
+
+**C3. [CLAVE]** ¿Qué cambios obligan a reingresar o a repostular: dimensiones, cantidad de estructuras, posición de equipos o listado de productos?
+— Ayer ya se modificó el listado —salieron mangueras y repuestos del rack— y hubo que reinformar. Sigue abierto el toldo de 3×3 frente al de 4×4.
+
+**C4. [CLAVE]** ¿Hay costo o recargo por reingresar un proyecto corregido?
+
+**C5.** ¿Qué escala y formato exige el plano, y debe ir firmado por arquitecto o por ingeniero?
+
+**C6.** ¿Se exige memoria de cálculo estructural para el toldo plegable, el panel araña y el rack de exhibición, o solo sobre cierta altura o superficie?
+— Es la línea que puede aparecer de golpe en el presupuesto.
+
+**C7.** ¿El plano debe indicar la posición exacta de cada equipo con sus distancias entre sí, o basta con la zonificación?
+— Define cuánto detalle de medición hay que cerrar antes del 17 y cuánto se puede ajustar en montaje.
+
+**C8. [CLAVE]** Los equipos pueden venderse o salir a obra antes de la feria. ¿Se puede declarar un modelo equivalente o hay que informar cada reemplazo?
+— Weynner no puede asegurar que las máquinas sigan en bodega. Es el mayor riesgo del cronograma.
+
+**C9.** ¿Nos pueden entregar el plano del lote AD-A10 a escala, con cotas reales, marcación a piso, punto de energía y accesos?
+— Hoy el render se está cerrando sobre mediciones propias.
+
+## D · Montaje, desmontaje y logística
+
+*Todavía no nos asignan los días. La cotización de las pantallas —tomada del 15 al 22 de octubre— no se puede cerrar sin eso.*
+
+**D1. [CLAVE]** ¿Qué días y horarios nos corresponden para montaje y desmontaje?
+— Sin esta asignación no se cierra la cotización de pantallas ni la programación del electricista.
+
+**D2.** ¿Hay ventana anticipada de ingreso para maquinaria pesada en áreas descubiertas?
+— Entran alrededor de 30 equipos y unas 12 toneladas.
+
+**D3.** ¿Cómo se coordina el ingreso de camiones: se agenda hora, hay portería específica, cuál es el peso y la altura máxima de acceso?
+
+**D4.** ¿FISA dispone de grúa horquilla y operador para la descarga, y a qué tarifa?
+
+**D5.** ¿Se puede retirar equipamiento en arriendo la misma noche del último día?
+— Las pantallas se retirarían a las 21:00 del 22 de octubre; el proveedor lo permite y falta confirmar que FISA también.
+
+**D6.** ¿Qué elementos no se pueden retirar durante los días de feria y cuáles sí?
+
+**D7.** ¿A qué hora debe estar el stand terminado y libre de embalajes? ¿Hay revisión final del Área Técnica y a qué hora?
+
+**D8.** ¿Dónde se acopian pallets y embalajes durante la feria? ¿Hay bodegaje disponible?
+— Los motores Hatz llegan sobre pallets.
+
+**D9.** ¿Cuál es la hora límite de retiro el último día y qué multa aplica el atraso?
+— Se descuenta de la garantía.
+
+**D10.** Primero se monta lo eléctrico y el piso, y después entran los equipos. ¿FISA fija un orden o ventanas por tipo de trabajo?
+
+## E · Distribución del lote y estructuras
+
+*Lo que sigue abierto del render de ayer: toldo, panel araña en L, banderines y las medidas que faltan.*
+
+**E1.** ¿Cuál es el ancho mínimo de circulación exigido dentro del lote?
+— Define si el paso entre el toldo, el banderín y el dumper cuenta como circulación o hay que cerrarlo.
+
+**E2.** ¿Hay retranqueo obligatorio respecto de la línea del lote y del pasillo?
+
+**E3.** Los brazos de la miniexcavadora EZ17 y de la retroexcavadora se exhiben extendidos. ¿Pueden proyectarse sobre el pasillo o todo debe quedar dentro de la línea del lote?
+— La medida del brazo abierto es justamente lo que falta y lo que tiene trabado el render.
+
+**E4.** ¿Cuál es la altura máxima permitida en área descubierta, para estructuras y para elementos publicitarios?
+
+**E5.** Toldo plegable de 3×3 con contrapesos y sin perforar el piso: ¿aprobado? ¿Cuántos kilos de contrapeso por punto exigen?
+— Quedamos en casarnos con el 3×3 porque cambiarlo después obligaría a repostular.
+
+**E6.** Panel araña en L, de cuatro cuerpos por un costado y dos por el otro: ¿hay restricción de formato, de ángulo o de distancia al pasillo?
+
+**E7.** Doce banderines tipo vela en el perímetro: ¿hay límite de cantidad, de altura o de distancia a la línea del lote?
+— La distribución quedó en tres para Hatz, tres para Wacker Neuson, tres para Putzmeister, uno para Sany y dos de BEKA con Grupo EMIN.
+
+**E8.** ¿Se exige certificado de retardancia al fuego para lonas, pasto sintético y alfombra?
+— Puede cambiar el proveedor.
+
+**E9.** ¿Qué carga admite el piso del lote en kg/m²?
+— Entran alrededor de 12 toneladas en 100 m².
+
+**E10.** ¿Se puede anclar o perforar el piso?
+
+**E11.** Las dos pantallas de 55" van montadas junto a los equipos. ¿Hay exigencia de sistema de fijación, certificación o distancia mínima al público?
+— Quedó como tarea confirmar que cumplan las medidas de seguridad de instalación; hay que definir ganchos, peso y posición.
+
+**E12.** ¿Qué incluye exactamente la entrega del lote descubierto? Entendemos que llega pelado, con marcación a piso y un punto de energía.
+
+## F · Activación, público y audio
+
+*La activación es caja de arena con máquinas a control remoto, público operando desde el dumper y sorteo con registro por QR. El audio apareció ayer y no estaba declarado.*
+
+**F1.** La activación tiene caja de arena y máquinas a control remoto con público dentro del lote. ¿Requiere autorización especial o cobertura de seguro adicional?
+
+**F2.** ¿Se permite arena en el lote y con qué condiciones de contención y limpieza?
+
+**F3.** El público se sube al dumper para operar las máquinas. ¿Hay exigencia de baranda, tarima o límite de altura para el acceso de público a un equipo?
+— Está en discusión si hace falta tarima o basta la altura del equipo.
+
+**F4.** ¿Se permite parlante con micrófono para animar la activación y música ambiental en el lounge? ¿Cuál es el límite de decibeles?
+— El audio suma un punto eléctrico en los dos escenarios que estamos evaluando.
+
+**F5.** ¿Se puede encender u operar maquinaria en demostración dentro del stand, y con qué restricciones de ruido, emisiones y perímetro?
+
+**F6.** Sorteo con ruleta y registro por QR: ¿exigen bases legales, aviso o permiso? ¿Hay restricción para captar datos de visitantes?
+
+**F7.** ¿Se permite servicio de café y entrega de botellas de agua en el lote? ¿Se exige resolución sanitaria?
+— Cambiamos la máquina de agua por botellas dentro del minirefrigerador.
+
+**F8.** ¿Promotoras y personal externo requieren credencial distinta? ¿Cuántas credenciales incluye el lote y cuánto cuesta la adicional?
+
+## G · Seguro y documentación
+
+*La póliza está bien —UF 15.000 contra las UF 1.000 exigidas, con FISA S.A. ya incorporada por endoso del 19 de agosto—. Quedan dos detalles sin respuesta desde el 25 de agosto.*
+
+**G1. [CLAVE]** El Reglamento pide cobertura sin deducible y nuestra póliza tiene 10 % con mínimo de UF 25. ¿Se acepta una carta de la productora asumiéndolo, o exigen endoso que lo elimine?
+— Es el único punto de la póliza abierto y conviene cerrarlo antes de que el Área Técnica revise el proyecto.
+
+**G2.** Las ubicaciones aseguradas son las instalaciones de BEKA. ¿El endoso debe nombrar el recinto ferial durante montaje, feria y desmontaje, y con qué texto exacto?
+
+**G3.** ¿Basta FISA S.A. como asegurado adicional o también deben ir Espacio Riesco y la Cámara Chilena de la Construcción?
+
+**G4.** ¿Qué documentación laboral exigen para los montajistas y en qué plazo se carga?
+— Condiciona a qué proveedores podemos ingresar al recinto.
+
+**G5.** ¿Se exige prevencionista de riesgos acreditado durante el montaje, permanente o por visita?
+— Rolando, prevencionista de BEKA, va a enviar sus propias consultas por correo; conviene cruzarlas con la respuesta de FISA.
+
+## H · Video institucional
+
+*Es el pendiente que quedó de consultar a Francisco. El rodaje es el 4 de septiembre y el enfoque no se puede cambiar después de grabar.*
+
+**H1. [CLAVE]** El video corporativo que vamos a entregar: ¿tiene tope de duración o formato exigido?
+— Tenemos una versión principal de 60 segundos y una extendida de 2:45. Si FISA pide una pieza más larga, se entrega la extendida.
+
+**H2.** ¿Cuál es el plazo y la vía de entrega, y qué especificaciones piden —resolución, formato, subtítulos?
+
+**H3.** ¿FISA lo publica en sus redes y con qué criterio? ¿Hay restricción para mostrar marcas de terceros en pantalla?
+— En el video solo entran Wacker Neuson, Putzmeister, Hatz y Grupo EMIN.
+
+**H4.** ¿Piden además ficha de expositor, logos o material gráfico, y con qué plazo?
+
+## I · Declaración de equipos y productos especiales
+
+*Todos nuestros equipos entran como producto especial por peso, y el listado ya se modificó una vez.*
+
+**I1.** ¿Qué implica en costo y en documentación adicional que los equipos entren como producto especial?
+
+**I2.** Ya reinformamos el listado una vez. ¿Cuántas veces se puede actualizar y por qué vía?
+
+**I3.** ¿Hay que declarar el rack de exhibición como estructura y con qué antecedentes?
+— Son dos láminas de melamina con ganchos y cajones a nivel de suelo, con una carga aproximada de 30 kilos.
+
+**I4.** Un equipo asegurado al rack con precinto de seguridad, ¿se declara como parte de la estructura o como equipo independiente?
+— Es el caso del FU 7642, que va en el suelo junto al rack.
+
+**I5.** Desplegar un equipo de gran envergadura, tipo torre de iluminación LT4: ¿requiere permiso adicional o autorización del vecino?
+— Lo descartamos para esta edición, pero queremos el criterio por escrito por si vuelve a la mesa.
+
+---
+
+## Antes de salir de la sala
+
+Diez cosas que deben quedar por escrito, no de palabra.
+
+- [ ] Fecha y hora de apertura del portal, y fecha tope real de carga del proyecto.
+- [ ] Valor del kW adicional, unidad de cobro y si emiten factura.
+- [ ] Mínimo eléctrico exigido para aprobar un lote descubierto de 100 m².
+- [ ] Si se puede entrar con generador propio durante el montaje.
+- [ ] Si el render y el plano se aceptan con gráfica preliminar.
+- [ ] Qué cambios obligan a reingresar el proyecto y con qué costo.
+- [ ] Días asignados de montaje y desmontaje.
+- [ ] Criterio sobre el deducible de la póliza de responsabilidad civil.
+- [ ] Nombre, correo y teléfono de la contraparte técnica del lote AD-A10.
+- [ ] Plano del lote a escala, con cotas, marcación a piso y punto de energía.
