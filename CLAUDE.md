@@ -1,42 +1,52 @@
 # CLAUDE.md
 
-This file provides guidance to Claude Code (claude.com/claude-code) and other AI assistants when working with code in this repository.
+Guía para Claude Code y otros asistentes que trabajen en este repositorio.
 
-## Current State
+## Qué es este repositorio
 
-**This repository is currently empty.** As of 2026-08-14, `pabloopazo-ui/Precisi-n` contains no source code, no build configuration, and no prior commits — this CLAUDE.md is the first file added. There is no codebase structure, development workflow, or set of conventions to document yet.
+Repositorio de trabajo de **Precisión**, consultora de crecimiento comercial B2B
+(Chile). Guarda documentos de trabajo de la consultora, no una aplicación: no hay
+código, dependencias, compilación ni pruebas.
 
-Because of that, this file is a placeholder scaffold. **Whoever adds the first real code to this repository (human or AI) should rewrite this file** to reflect the actual project. Do not treat the empty sections below as established conventions.
+Todo texto se escribe en español de Chile y sigue el **canon de Precisión**
+(registro, cifras en formato es-CL, usted al cliente, sin nombres de personas en
+entregables). El canon vive en las preferencias de Pablo Opazo; si no está
+cargado en la sesión, se pide antes de redactar material para clientes.
 
-## Guidance for AI Assistants (while the repo is empty)
+## Estado al 23-nov-2026
 
-- Do not assume a language, framework, or project type. Nothing has been decided yet; ask the user or infer from their request when starting the project.
-- When scaffolding the initial project, also update this CLAUDE.md in the same change so it documents the real setup from day one.
-- Keep the repository name in mind: "Precisi-n" (likely "Precisión", Spanish for "precision"). Project-facing text may be intended for a Spanish-speaking audience — confirm with the user.
+| Rama | Contenido | Estado |
+|---|---|---|
+| `claude/claude-md-docs-7gah4p` | Este CLAUDE.md | Rama por defecto. No existe `main` |
+| `claude/edifica-meeting-questions-rjt7qs` | Preguntas a FISA para EDIFICA 2026 (cliente BEKA S.A.), .md y .docx | PR #1 cerrado el 23-nov-2026 como histórico: la reunión (27-ago) y la feria (20 al 22-oct) ya pasaron. La rama se conserva |
 
-## Template to fill in once code exists
+La rama de archivo no se borra: archivar es parte de publicar y nada se elimina.
 
-When the project takes shape, replace everything above and document:
+## Calibrar: dónde está el material
 
-### Project Overview
-- What the project does and who it is for.
-- Primary language(s), framework(s), and runtime versions.
+El frente en curso es replantear **Calibrar** como diagnóstico de productividad
+de personas y procesos: horas hombre por proceso, que se reinvierten y no se
+recortan.
 
-### Repository Structure
-- Top-level directory layout and what lives where.
-- Entry points (main modules, app bootstrap files).
+La versión vigente del PRD **no está en este repositorio**. Es la v6.0, escrita
+el 23-nov-2026 en el Mac de Pablo, en la carpeta
+`~/Documents/Claude/Projects/PRECISION/Calibrar/01 Producto/`. El archivo se
+llama `Calibrar_PRD_v3_jul2026.md` aunque por dentro va en la v6.0, y
+`qa_calibrar.py` y la cabina leen ese nombre, así que renombrarlo exige cambiar
+esas rutas.
 
-### Development Workflow
-- How to install dependencies (exact commands).
-- How to run the project locally.
-- How to run tests (full suite and a single test).
-- How to lint, format, and type-check.
-- How to build for production, if applicable.
+Reglas para trabajar aquí:
+- No se reescribe el PRD en paralelo dentro del repositorio. Se parte de la v6.0.
+- Si el PRD se trae al repositorio, se trae como copia de la v6.0 y se declara
+  cuál es la fuente maestra.
+- Los documentos de revisión del 23-nov-2026 (casos dorados de productividad y
+  revisión de canon de la v6.0) esperan la revisión de Pablo y no se aplican sin
+  su visto bueno.
 
-### Conventions
-- Code style, naming, and formatting rules (and the tools that enforce them).
-- Branching and commit-message conventions.
-- Where configuration and secrets handling live (never commit secrets).
+## Convenciones
 
-### Gotchas
-- Anything non-obvious that trips up newcomers or automated agents.
+- Una rama por frente de trabajo; los PR se abren en borrador.
+- Cada versión nueva de un documento archiva la anterior, renombrada
+  `[SUPERADA — usar la vN]`.
+- Fechas en formato `23-nov-2026`; nunca fechas relativas.
+- Nunca se suben RUT, teléfonos ni nombres de contactos de clientes.
